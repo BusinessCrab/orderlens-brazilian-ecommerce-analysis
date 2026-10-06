@@ -1,0 +1,15 @@
+
+# Local environment and notebook cache
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Original data and generated outputs
+data/raw/
+data/processed/
+
+# Credentials
+.env
+.env.*
+kaggle.json
+access_token
